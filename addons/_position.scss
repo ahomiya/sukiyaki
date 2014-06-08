@@ -1,5 +1,5 @@
 // Position
-@mixin position($position: relative, $coordinates: null null null null) {
+@mixin position($position: relative, $coordinates: null null null null, $block: false) {
   @if type-of($position) == list {
     $coordinates: $position;
     $position: relative;
@@ -10,6 +10,10 @@
   $right: nth($coordinates, 2);
   $bottom: nth($coordinates, 3);
   $left: nth($coordinates, 4);
+
+  @if ($block) {
+    display: block;
+  }
 
   position: $position;
 
