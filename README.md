@@ -1,6 +1,6 @@
 # [Sukiyaki](https://github.com/ahomiya/sukiyaki)
 
-すき焼き (Sukiyaki) is a Japanese dish, of the soup or stew type, prepared and served in the nabemono (Japanese hot pot) style.
+すき焼き (Sukiyaki) is a Japanese dish, of the soup or stew type, prepared and served in the nabemono (Japanese hot pot) style. [Wikipedia](http://en.wikipedia.org/wiki/Sukiyaki)
 
 すき焼き (Sukiyaki) is a simple and lightweight mixin library for SASS.
 
