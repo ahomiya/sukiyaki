@@ -1,6 +1,6 @@
 # [Sukiyaki](https://github.com/ahomiya/sukiyaki)
 
-[![onigiri](https://raw.githubusercontent.com/ahomiya/sukiyaki/master/doc/img/project.png)](https://github.com/ahomiya/sukiyaki)
+[![onigiri](https://raw.githubusercontent.com/ahomiya/sukiyaki/master/doc/img/sukiyaki.png)](https://github.com/ahomiya/sukiyaki)
 
 すき焼き (Sukiyaki) is a Japanese dish, of the soup or stew type, prepared and served in the nabemono (Japanese hot pot) style. [Wikipedia](http://en.wikipedia.org/wiki/Sukiyaki)
 
