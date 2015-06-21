@@ -45,7 +45,3 @@ sftp-config*.json
 
 # EMacs #
 \#*#
-
-# Package managers #
-packages/
-node_modules/
