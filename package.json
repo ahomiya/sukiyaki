@@ -1,0 +1,16 @@
+{
+  "name": "Sukiyaki",
+  "version": "1.0.0",
+  "description": "Sukiyaki is a simple and lightweight function and mixin library for SASS.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahomiya/sukiyaki.git"
+  },
+  "author": "ME",
+  "license": "ahomiya.com",
+  "homepage": "http://www.ahomiya.com",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-rename": "1.2.0"
+  }
+}
