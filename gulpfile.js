@@ -8,8 +8,8 @@ var packages        = './packages'                            // Packages
 // -----------------------------------------------------------------------------
 // Globs
 var sass            = {
-    src             : './src',                                // JS - Sources
-    dist            : './dist'                                // JS - Distribution
+    src             : './src',                                // Sources
+    dist            : './dist'                                // Distribution
 };
 
 // -----------------------------------------------------------------------------
