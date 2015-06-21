@@ -16,14 +16,7 @@ var sass            = {
 // -----------------------------------------------------------------------------
 // Packages
 var packages        = {
-
-  // SASS
-  sass: {
-    libraries: [
-      sass.src + '/**/*'
-    ]
-  }
-
+  sass              : sass.src + '/**/*'                     // SASS
 };
 
 // -----------------------------------------------------------------------------
@@ -31,7 +24,7 @@ var packages        = {
 // Concatenating, minifying, and optimizing files
 
 // Custom
-gulp.task('sass.build.custom', function() {
-  return gulp.src(packages.sass.libraries)
+gulp.task('build:sass.custom', function() {
+  return gulp.src(packages.sass)
     .pipe(gulp.dest(sass.dist));
 });
